@@ -11,7 +11,7 @@
 
 **INTEGRANTES**:  
 
-| **NOMBRE** | **CORREO** |
+| **NOMBRE** | **CORREO ELECTRONICO** |
 | --- | --- |
 | Araujo Palestina Claudio Hassiel |317193497@pcpuma.acatlan.unam.mx |
 | Chávez Herrera María Itzel |317163113@pcpuma.acatlan.unam.mx |
