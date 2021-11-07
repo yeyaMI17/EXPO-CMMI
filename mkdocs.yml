@@ -1,4 +1,4 @@
-site_name: Actividades
+site_name: EXPOSICIÓN
 dev_addr: 127.0.0.1:8001
 # site_url: 
 # repo_url: 
@@ -10,10 +10,9 @@ theme:
 extra_css:
     - css/page.css
 nav:
-    - Individuales:
-        - Actividad 1: todo.md
-        - Actividad 2: todo.md
     - Colaborativas:
-        - Actividad 1: todo.md
+        - Tema : prueba.md
+    - EJEMPLOS:
+        - Ejemplo: todo.md
 copyright: ©GMDXX
 site_author: GMDXX

@@ -3,11 +3,21 @@
         <span style="color: black;font-size: 25px;font-weight: bold;">UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO</span></br></br>
         <span style="color: black;font-size: 26px;">FACULTAD DE ESTUDIOS SUPERIORES ACATLÁN</span>
     </div>
-    <img src="/archivos/index/fesa.png" alt="drawing" width="200" style="width: 25%;"/>
+    <img src="/archivos/index/fesa.png" alt="drawing" width="150" style="width: 25%;"/>
 </div>
 
 &nbsp;
-# Presentación
+# PRESENTACIÓN 
 
-- **Nombre**: demo
-- **Correo**: my.email@mail.com
+**INTEGRANTES**:  
+
+| **NOMBRE** | **CORREO** |
+| --- | --- |
+| Araujo Palestina Claudio Hassiel |317193497@pcpuma.acatlan.unam.mx |
+| Chávez Herrera María Itzel |317163113@pcpuma.acatlan.unam.mx |
+| Gerard Valdes Emilio Diego | |
+| Ponce De Leon Sanchez Miguel Angel|  |
+| Rendon Jimenez Gustavok | |
+| Santos Mejia Jonathan | |
+
+
