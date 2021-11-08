@@ -11,8 +11,8 @@ extra_css:
     - css/page.css
 nav:
     - Colaborativas:
-        - Tema : prueba.md
+        - CMMI : prueba.md
     - EJEMPLOS:
-        - Ejemplo: prueba2.md
+        - Ejemplo: colaborativo/prueba2.md
 copyright: ©GMDXX
 site_author: GMDXX
