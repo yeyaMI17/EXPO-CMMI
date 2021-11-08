@@ -1,5 +1,9 @@
 # **UNIDAD 6:Estándares y Modelos de Mejores Prácticas**
+
 ## **Tema: ¿Que son los estándares y modelos de mejores prácticas?**
+
+Los estándares de calidad de software son parte de la ingeniería de software. Se hace utilización de estándares y metodologías para el diseño, programación, prueba y análisis del software desarrollado, con el fin de ofrecer una mayor confiabilidad y mantenibilidad en sincronia con los requisitos exigidos, con esto se eleva la productividad y el control de la calidad del software.
+
 ## CMMI
 
 ##Estandares de calidad de software.
