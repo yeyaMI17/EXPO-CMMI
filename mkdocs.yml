@@ -12,6 +12,7 @@ extra_css:
 nav:
     - Colaborativas:
         - Tema : prueba.md
+        - Objetivos : Objetivos.md
     - EJEMPLOS:
         - Ejemplo: colaborativo/prueba2.md
 copyright: ©GMDXX
