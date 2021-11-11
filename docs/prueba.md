@@ -73,6 +73,38 @@ Además existen 3 distintos modelos que con objetivos distintos como:
 Todos ellos desarrollados por el Software Engineering Institute (SEI), un centro de Investigación y Desarrollo que forma parte de la Carnegie Mellon University, en Filadelfia
 ## **Características**
 
+![IMGCaract0](/archivos/index/IMGCaract0.png)
+
+* Integra disciplinas como sistemas y software en un solo marco de trabajo.
+* Es un modelo muy complejo, pero se puede resumir de la siguiente manera:
+    * _Áreas de proceso_: El CMMI identifica 24 areas de procesos que son relevantes para la capacidad y la mejora del proceso software. Estas estan organizadas en cuatro grupos en el modelo CMMI continuo.
+    * _Metas_: Las metas son descripciones abstractas de un estado deseable que deberia ser alcanzado por una organizacion. El CMMI tiene metas especificas asociadas a cada area de proceso y que definen el estado deseable para esta area. Tambien tienen metas genericas que son asociadas con la institualizacion de buenas practicas.
+    * _Prácticas_: Las practicas en el CMMI son descripciones de vias para conseguir una meta. Se pueden asociar hasta siete practicas especificas o genericas con cada meta dentro de cada area de procesos. El CMMI reconoce que lo importante es la meta, no el camino que lleva a ella.
+        * El modelo está dividido en 24 áreas de proceso, pero se reconocen cuatro grupos los cuales son:
+            * **Gestión del proceso**: Definicion de procesos organizacionales, centrar la atencion en procesos organizacionales, aprendizaje organizacional, rendimiento de los procesos organizacionales y desarrollo e innovacion organizacional.
+            * **Gestión del proyecto**: Planificacion del proyecto, control y seguimiento del proyecto, gestion de acuerdos con los provedores, gestion de la integracion del proyecto, gestion de riesgos, integracion del equipo y gestion cuantitativa del proyecto.
+            * **Ingeniería**: Gestion de requerimientos, desarrollo de requerimientos, soluciones tecnicas, integracion del producto, verificacion y validacion.
+            * **Soporte**: Gestion de configuraciones, gestion de calidad del proceso y producto, analisis y mediciones, analisis y toma de decisiones, entorno organizacional para integracion y analisis y resolucion causal.
+        * Está basado en alcanzar un conjunto de metas relacionadas con las buenas prácticas de ingeniería del software y describir, analizar y controlar las prácticas utilizadas para alcanzar estas metas.
+        * Las organizaciones utilizan cualquier práctica apropiada para alcanzar cualquier meta del CMMI.
+
+Ejemplo de metas en CMMI:
+![IMGCaract1](/archivos/index/IMGCaract1.png)
+
+Ejemplo de practicas en CMMI:
+![IMGCaract2](/archivos/index/IMGCaract2.png)
+
+Finalmente, la forma de evaluar un CMMI implica examinar los procesos en una organización y clasificarlos en la siguiente escala del 1 al 6, como sigue:
+
+    1. No productivo.
+    2. Productivo.
+    3. Gestionado.
+    4. Definido.
+    5. Gestionado cuantitativamente.
+    6. Optimizado.
+
+![IMGCaract3](/archivos/index/IMGCaract3.png)
+
 ## **Niveles en CMMI**  
 **Capacidad y madurez** están usualmente representados como un modelo con el cual una organización puede medir y mejorar su rendimiento. 
 Comúnmente referidos como modelos de madurez de la capacidad, ellos describen los elementos esenciales de procesos efectivos y trabajan sobre la premisa que la calidad de un sistema o un producto está altamente influenciado por la calidad de los procesos utilizados para desarrollarlos.  
