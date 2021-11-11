@@ -6,14 +6,14 @@ Los estándares de calidad de software son parte de la ingeniería de software. 
 
 ![](https://x.utel.edu.mx/repositorios/uploads/2020/07/M1DIS05B.jpg)
 
-## Estandares de calidad de software.
+## **Estandares de calidad de software.**
 El software es una de las herramientas de mayor utilidad en la optimización de procesos en las organizaciones, con el propósito de contar y ofrecer optimización, eficiencia y satisfacción de necesidades, razón por la cual el software debe contar con criterios que garanticen su calidad. De acuerdo con esta necesidad, diferentes entidades o investigadores han propuesto estrategias modelos, metodologías, guías, incluso normas y estándares de calidad que brindan apoyo al desarrollo y/o uso de un producto software y permiten evaluar si efectivamente tiene un nivel de calidad durante su ciclo de vida, y de esta manera fomentar un ambiente de calidad, con base en la adecuada administración de la información.
 
 El término calidad de software se refiere al grado de desempeño de las principales características con las que debe cumplir un sistema computacional durante su ciclo de vida, dichas características de cierta manera garantizan que el cliente cuente con un sistema confiable, lo cual aumenta su satisfacción frente a la funcionalidad y eficiencia del sistema construido.
 
 Para garantizar la calidad de software es importante implementar algún modelo o estándar de calidad que permita la gestión de atributos en el proceso de construcción de software, teniendo en cuenta que la concordancia de los requisitos y su construcción son la base de las medidas de calidad establecidas.
 
-### Modelos de calidad de software.
+### **Modelos de calidad de software.**
 
 Los modelos de calidad son aquellos documentos que integran la mayor parte de las mejores prácticas, proponen temas de administración en los que cada organización debe hacer énfasis, integran diferentes prácticas dirigidas a los procesos clave y permiten medir los avances en calidad.
 
@@ -30,7 +30,7 @@ El modelo CMMI es uno de los modelos de mayor acogida para la evaluación de gra
 
 ![](https://gbitcorp.com/site/assets/files/1724/cmmi2.471x0-is.png)
 
-## CMMI
+## **CMMI**
 
 ### Definicion de CMMI
 
@@ -81,6 +81,7 @@ Poner el software en funcionamiento, por lo que hay que planificar el entorno te
 
 ### Uso y mantenimiento
 Esta es una de las fases más importantes del ciclo de vida de desarrollo del software. Puesto que el software ni se rompe ni se desgasta con el uso, su mantenimiento incluye tres puntos diferenciados:
+
 * Eliminar los defectos detectados durante su vida útil (mantenimiento correctivo).
 * Adaptarlo a nuevas necesidades (mantenimiento adaptativo). 
 * Añadirle nuevas funcionalidades (mantenimiento perfectivo).
