@@ -47,7 +47,7 @@ En un inicio, fue diseñado para la ingeniería de software. No obstante, la úl
 
 El bloque de creación fundamental del modelo CMMI es un área de proceso que define los objetivos y varias de las actividades que se suelen realizar para lograr dichos objetivos. Un ejemplo de un área de proceso es el control de calidad de los procesos y productos. Es importante entender que un **área de proceso no es un proceso**. Un solo proceso puede atravesar varias áreas de proceso y una sola área de proceso puede abarcar varios procesos.
 
-##Objetivos
+## **Objetivos**
 
 El principal objetivo del CMMI es apoyar a las empresas a mejorar distintos aspectos y puede ayudar en distintos ámbitos, pero el objetivo puede variar segun el campo o labor en el que estemos, así exiten varios como:
 
@@ -71,8 +71,62 @@ Además existen 3 distintos modelos que con objetivos distintos como:
 - CMMI for Services, dirigido a organizaciones que prestan servicios a otras empresas.
 
 Todos ellos desarrollados por el Software Engineering Institute (SEI), un centro de Investigación y Desarrollo que forma parte de la Carnegie Mellon University, en Filadelfia
+## **Características**
 
-## Ciclos de vida de CMII
+## **Niveles en CMMI**  
+**Capacidad y madurez** están usualmente representados como un modelo con el cual una organización puede medir y mejorar su rendimiento. 
+Comúnmente referidos como modelos de madurez de la capacidad, ellos describen los elementos esenciales de procesos efectivos y trabajan sobre la premisa que la calidad de un sistema o un producto está altamente influenciado por la calidad de los procesos utilizados para desarrollarlos.  
+
+* La idea de un modelo de madurez de la capacidad que describe como una organización puede incrementar su efectividad en etapas secuenciales fue popularizada por el **Instituto de Ingeniería de Software (SEI)** en la Universidad de Carnegie Mellon en USA.  
+* Desde cuando el modelo de madurez de la capacidad fue publicado en **1993**, el concepto ha sido replicado en muchas áreas de negocios incluyendo las gestiones de proyectos, programas y portafolios.  
+* La versión corriente del modelo **SEI** es llamado **CMMI (Capability Maturity Model Integration).** 
+Este identifica dos escalas, una para capacidad y la otra para madurez. Capacidad se encarga de las áreas de proceso individuales mientras que la madurez se encarga procesos generales integrados.  
+
+| **NIVEL** |**CAPACIDAD (funciones)** | **MADUREZ (procesos)** |
+| --- | --- |---|
+|**0**|Incompleto.||
+|**1**|Ejecutado.|Inicial.|
+|**2**|Gestionado.|Gestionado.|
+|**3**|Definido.|Definido.|
+|**4**||Gestionado cuantitativamente.|
+|**5**||Optimizando.|
+
+
+### **Escala de capacidad**  
+Corre del nivel 0 al nivel 3:  
+
+| **NIVEL** |**NOMBRE** | **DESCRIPCIÓN** |
+| --- | --- |---|
+|**0**|Incompleto.|La función no se lleva a cabo o se ejecuta parcialmente. Los objetivos de la función no son alcanzados.| 
+|**1**|Ejecutado.| La función es ejecutada y los objetivos son conseguidos parcialmente pero los procedimientos y su aplicación son inconsistentes.|
+|**2**|Gestionado.|La función es gestionada de acuerdo a la prescripción. Es ejecutada por gente competente para producir resultados controlados. La función es monitoreada por la adherencia a su descripción.|
+|**3**|Definido.|La función es consistentemente gestionada usando versiones ajustadas al enfoque estándar de la organización. Las lecciones son capturadas y o contribuyen al conocimiento de la organización.|  
+
+### **Escala de madurez**
+![Mi Imágen](/archivos/index/niveles.jpg)    
+**La escala de madurez** identifica las etapas en el desarrollo de una organización desde sus intentos caóticos iniciales de gestionar proyectos, programas y portafolios hasta el punto donde la mayoría de las iniciativas tienen éxito y la organización tiene la habilidad de mejorar continuamente.   
+
+| **NIVEL** |**NOMBRE** | **DESCRIPCIÓN** |
+| --- | --- |---|  
+|**1**|Inicial.|La organización no provee un ambiente estable para apoyar capacidad funcional y el éxito depende de esfuerzos individuales o heroísmo.Entregan a menudo los objetivos del proyecto, programa o portafolio pero frecuentemente exceden presupuestos y cronogramas. Ellas tienen una tendencia a sobre comprometerse, abandonar sus procesos en tiempos de crisis y no ser capaces de repetir sus éxitos.|
+|**2**|Gestionado.|Las funciones relevantes son gestionadas a nivel de capacidad 2. El proceso basado en el ciclo de vida asegura que procedimientos funcionales durante tiempos de crisis y el progreso es visible en los puntos definidos por la administración.|
+|**3**|Definido.| Las funciones relevantes son gestionadas a nivel de capacidad 3. Los proyectos, programas y portafolios son ajustados a procedimientos funcionales y ejecutan estos dentro de los procesos de un ciclo de vida diseñado centralmente pero ajustado  a los proceso del ciclo. La organización mejora proceso y procedimientos.|
+|**4**|Gestionado cuantitativamente.|Métricas de rendimiento son recogidas y utilizadas para control rendimiento futuro. Calidad y rendimiento es entendido en términos estadísticos. |
+|**5**|Optimizando.|El mejoramiento continuo del proceso es permitido por retroalimentación cuantitativa del proceso y piloteando ideas y tecnologías innovadoras.|
+
+### **Certificado en CMMI**
+Las certificaciones CMMI se ofrecen directamente a través del Instituto CMMI, que certifica a personas,instructores y profesionales.  
+
+![Mi Imágen](/archivos/index/certi.jpg)  
+
+El Instituto CMMI ofrece las siguientes certificaciones: 
+
+* **Asociado de CMMI:** La Certificación de Asociado de CMMI demuestra su compromiso y habilidades en lo que respecta a la mejora de la capacidad y el rendimiento. La certificación valida que tiene las habilidades y el conocimiento para conectar el modelo CMMI con el valor comercial y para participar como miembro del equipo de evaluación (CTM).  
+* **CMMI Professional:** El siguiente nivel de certificación es la certificación CMMI Professional, que demuestra su capacidad para aplicar el modelo CMMI en una estructura organizativa a través de hojas de ruta para el desempeño, coaching de equipos, gestión del cambio organizacional y fomento de una cultura de mejora.  
+* **Evaluador líder de CMMI certificado:** Como evaluador líder de CMMI certificado, estará calificado para evaluar organizaciones para determinar su capacidad o nivel de madurez como se describe en el modelo de CMMI. Las solicitudes son revisadas por el comité de Revisión de Solicitudes de Tasador de ISACA, quien evaluará sus calificaciones para la certificación.  
+* **Instructor certificado de CMMI:** la certificación de Instructor certificado de CMMI le permite dirigir cursos de instrucción en CMMI. Necesitará una organización patrocinadora que también sea un socio de ISACA y que tenga licencia para usar el paquete de productos CMMI para calificar para el examen.  
+
+## **Ciclos de vida de CMII**
 
 ![](https://www.webcreek.com/wp-content/uploads/2018/08/Aug8_Lifecycle_BlogWebsite1.jpg)
 
@@ -111,6 +165,23 @@ Esta es una de las fases más importantes del ciclo de vida de desarrollo del so
 * Adaptarlo a nuevas necesidades (mantenimiento adaptativo). 
 * Añadirle nuevas funcionalidades (mantenimiento perfectivo).
 Puede llevar tiempo llegar a esta fase.
+
+## **CONCLUSIONES**
+
+* La **Capability Maturity Model Integration (Integración de modelos de madurez de capacidades)** ayuda a medir a establecer qué tan madura es la forma de trabajo de una organización con base en las prácticas que incluyen. Entonces es una colección de prácticas algo que nos dice que es lo que se debe de hacer, todo aquello que si lo incluimos en nuestro proceso nos va a dar los mejores resultados.  
+Esto quiere decir que es un modelo de referencia para determinar las fortalezas y debilidades de una organización. Como ya se comentó anteriormente, **consta de 5 niveles**, pero debemos de tomar en cuenta que dicho modelo no es accesible para todo el mundo. Este modelo normalmente es solicitado por grandes empresas, las cuales pueden pagar dicho modelo, junto con varios especialistas con el fin de tener una certificación del mismo. Pero a pesar de ello, nos ayuda a almacenar gran cantidad de memoria, una reducción de errores que llegan al cliente, junto con una detección temprana de errores. Y sobre todo, Un argumento comercial exigido en varios llamados y licitaciones, es decir, presentar propuestas de soluciones para cubrir las necesidades del cliente de forma clara, ordenada y enfocada al éxito. Por ello es que no cualquiera puede implementarlo, sino especialistas como se ha comentado.
+* Sabemos que estos modelos tienen sus ventajas y desventajas, pero al fin y al cabo, son herramientas que tenemos a la mano para una mejor organización de nuestra data, haciendo nuestro software mucho más eficiente, confiable y seguro.  
+
+## **REFERENCIAS**
+
+* Software Engineering Coach. (2019, 9 julio). S01 - CMMI es Ágil. Punto [Vídeo]. YouTube. <https://www.youtube.com/watch?v=NHUjIPe3vUM&feature=youtu.be>
+
+
+* Madurez de capacidad - Praxis Framework. (s. f.). Praxis. Recuperado 9 de noviembre de 2021, de <https://www.praxisframework.org/es/knowledge/capability-maturity>
+
+* Pozas, J. L. B. (2021, 4 junio). ¿Qué es CMMI? Un modelo para optimizar los procesos de desarrollo. CIO MX. Recuperado 9 de noviembre de 2021, de <https://cio.com.mx/que-es-cmmi-un-modelo-para-optimizar-los-procesos-de-desarrollo/>  
+
+* C. (s. f.). La importancia del CMMI en el desarrollo de software. Conasa. Recuperado 9 de noviembre de 2021, de <https://conasa.grupocibernos.com/blog/la-importancia-del-cmmi-en-el-desarrollo-de-software>
 
 
 
