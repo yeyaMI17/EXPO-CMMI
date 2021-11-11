@@ -96,12 +96,12 @@ Ejemplo de practicas en CMMI:
 
 Finalmente, la forma de evaluar un CMMI implica examinar los procesos en una organización y clasificarlos en la siguiente escala del 1 al 6, como sigue:
 
-    1. No productivo.
-    2. Productivo.
-    3. Gestionado.
-    4. Definido.
-    5. Gestionado cuantitativamente.
-    6. Optimizado.
+1. **No productivo**: No se satisfacen una o mas de las metas especificas asociadas con el area de proceso. 
+2. **Productivo**: Se satisfacen las metas asociadas al area de proceso, y para todos los procesos el ambito del trabajo a realizar es fijado y comunicado a los miembros del equipo.
+3. **Gestionado**: A este nivel, las metas asociadas con el area de proceso son conocidas y tienen lugar politicas organizacionales que definen cuando se debe utilizar cada proceso. Debe haner planes documentados, gestion de recursos y monitorizacion de procedimientos a traves de la institucion.
+4. **Definido**: Este nivel se centra  en la estandarizacion organizacional y el desarrollo de procesos. Cada proyecto de la organizacion tien un proceso  de gestion creado a medida desde un conjutno de procesos organizacionales. La informacion y medidas del proceso son recogidas y utilizadas para las mejoras futuras del proceso.
+5. **Gestionado cuantitativamente**: En este nivel, existe una responsabilidad organizacional de usar metodos estadisticos y otros metodos cuantitativos para controlar los subprocesos. Esto significa que en el proceso de gestion debemos utilizar medidas de procesos y del producto.
+6. **Optimizado**: En este nivel superior, la organizacion debe utilizar medidas de proceso y de producto para dirigir el proceos de mejora. DEbemos analizar las tendencias y adaptar los procesos a las necesidades de los cambios del negocio.
 
 ![IMGCaract3](/archivos/index/IMGCaract3.png)
 
