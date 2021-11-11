@@ -215,5 +215,5 @@ Esto quiere decir que es un modelo de referencia para determinar las fortalezas 
 
 * C. (s. f.). La importancia del CMMI en el desarrollo de software. Conasa. Recuperado 9 de noviembre de 2021, de <https://conasa.grupocibernos.com/blog/la-importancia-del-cmmi-en-el-desarrollo-de-software>
 
-
+* Sommerville, I. (2005). _Ingenieria  del software._ (7ma ed). España: PEARSON Addison Wesley.
 
