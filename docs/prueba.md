@@ -34,7 +34,7 @@ El modelo CMMI es uno de los modelos de mayor acogida para la evaluación de gra
 
 ### Definicion de CMMI
 
-[](https://www.globalbit.co/wp-content/uploads/2019/07/cmmi-cover-blog.png)
+![](https://www.globalbit.co/wp-content/uploads/2019/07/cmmi-cover-blog.png)
 
 La **Integración del Modelo de Madurez de Capacidad** (Capability Maturity Model Integration o **CMMI** por sus siglas en ingles) es un modelo de proceso y comportamiento, que ayuda a las organizaciones a agilizar la mejora de procesos y fomentar comportamientos productivos y eficientes que reducen los riesgos en el desarrollo de software.
 Se basa en un principio: "La **calidad** de un sistema o producto está altamente influenciada por el **proceso** utilizado para **desarrollarlo y mantenerlo**".
