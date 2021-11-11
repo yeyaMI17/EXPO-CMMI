@@ -15,7 +15,7 @@
 | --- | --- |
 | Araujo Palestina Claudio Hassiel |317193497@pcpuma.acatlan.unam.mx |
 | Chávez Herrera María Itzel |317163113@pcpuma.acatlan.unam.mx |
-| Gerard Valdes Emilio Diego | |
+| Gerard Valdes Emilio Diego |420096373@pcpuma.acatlan.unam.mx|
 | Ponce De Leon Sanchez Miguel Angel|  |
 | Rendon Jimenez Gustavok | |
 | Santos Mejia Jonathan | |
