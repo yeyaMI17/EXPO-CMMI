@@ -18,7 +18,6 @@ Para garantizar la calidad de software es importante implementar algún modelo o
 Los modelos de calidad son aquellos documentos que integran la mayor parte de las mejores prácticas, proponen temas de administración en los que cada organización debe hacer énfasis, integran diferentes prácticas dirigidas a los procesos clave y permiten medir los avances en calidad.
 
 En el ámbito de la construcción de software, el modelo de calidad debe permitir evaluar el sistema, bien sea cualitativa o cuantitativamente, y de acuerdo con esta evaluación la organización podrá proponer e implementar estrategias que permitan la mejora del proceso dentro de las etapas de análisis, diseño, desarrollo y pruebas del software.
-
 ###  Estructura y enfoque de los modelos de calidad de software.
 
 ![](https://www.redalyc.org/journal/2654/265452747018/1900-3803-entra-13-01-00236-gf1.png)
@@ -33,11 +32,17 @@ El modelo CMMI es uno de los modelos de mayor acogida para la evaluación de gra
 
 ## CMMI
 
-El CMMI es una expansión del Modelo de Madurez(CMM). Creado por el software Engineering Institute de la Universidad Carnegie Mellon, de Estados Unidos.
+### Definicion de CMMI
 
-En un inicio, fue diseñado para la ingeniería de software. No obstante, la última versión del CMMI es más abstracta y generalizada, lo que permite que se aplique al hardware, software y desarrollo de servicios en todas las industrias.
+[](https://www.globalbit.co/wp-content/uploads/2019/07/cmmi-cover-blog.png)
 
-Consiste en una herramienta de mejora de procesos que ayuda a las organizacones a optimizar la mejora de procesos. Su implementación aumenta la fiabilidad del software producido, la visibilidad de los procesos de producción y soporte, la reusabilidad de componentes y como resultado de la combinación de este tipo de mejoras , disminuye los costes de producción y mantenimiento de las aplicaciones.
+La **Integración del Modelo de Madurez de Capacidad** (Capability Maturity Model Integration o **CMMI** por sus siglas en ingles) es un modelo de proceso y comportamiento, que ayuda a las organizaciones a agilizar la mejora de procesos y fomentar comportamientos productivos y eficientes que reducen los riesgos en el desarrollo de software.
+Se basa en un principio: "La **calidad** de un sistema o producto está altamente influenciada por el **proceso** utilizado para **desarrollarlo y mantenerlo**".
 
-El modelo para software (CMM-SW) establece 5 niveles de madurez para clasificar a las organizaciones, en función de qué áreas de procesos consiguen sus objetivos y se gestionan con principios de ingeniería. Es lo que se denomina un modelo escalonado, o centrado en la madurez de la organización.
+En un inicio, fue diseñado para la ingeniería de software. No obstante, la última versión del CMMI es más abstracta y generalizada, lo que permite que se aplique al hardware, software y desarrollo de servicios en todas las industrias. Para ello proporciona a las compañías una serie de pautas:
 
+- Un enfoque integrado para la mejora de procesos.
+- La incrustación de mejoras en un estado de negocios.
+- Un enfoque por fases para introducir gestiones que optimicen a la empresa.
+
+El bloque de creación fundamental del modelo CMMI es un área de proceso que define los objetivos y varias de las actividades que se suelen realizar para lograr dichos objetivos. Un ejemplo de un área de proceso es el control de calidad de los procesos y productos. Es importante entender que un **área de proceso no es un proceso**. Un solo proceso puede atravesar varias áreas de proceso y una sola área de proceso puede abarcar varios procesos.
