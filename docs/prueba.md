@@ -49,7 +49,7 @@ El bloque de creación fundamental del modelo CMMI es un área de proceso que de
 
 ## Ciclos de vida de CMII
 
-[](https://www.webcreek.com/wp-content/uploads/2018/08/Aug8_Lifecycle_BlogWebsite1.jpg)
+![](https://www.webcreek.com/wp-content/uploads/2018/08/Aug8_Lifecycle_BlogWebsite1.jpg)
 
 Contempla las fases necesarias para validar el desarrollo del software y así garantizar que este cumpla los requisitos para la aplicación y verificación de los procedimientos de desarrollo, asegurándose de que los métodos usados son apropiados.
 
