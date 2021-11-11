@@ -34,7 +34,7 @@ El modelo CMMI es uno de los modelos de mayor acogida para la evaluación de gra
 
 ### Definicion de CMMI
 
-![](https://www.globalbit.co/wp-content/uploads/2019/07/cmmi-cover-blog.png)
+[](https://www.globalbit.co/wp-content/uploads/2019/07/cmmi-cover-blog.png)
 
 La **Integración del Modelo de Madurez de Capacidad** (Capability Maturity Model Integration o **CMMI** por sus siglas en ingles) es un modelo de proceso y comportamiento, que ayuda a las organizaciones a agilizar la mejora de procesos y fomentar comportamientos productivos y eficientes que reducen los riesgos en el desarrollo de software.
 Se basa en un principio: "La **calidad** de un sistema o producto está altamente influenciada por el **proceso** utilizado para **desarrollarlo y mantenerlo**".
@@ -46,3 +46,45 @@ En un inicio, fue diseñado para la ingeniería de software. No obstante, la úl
 - Un enfoque por fases para introducir gestiones que optimicen a la empresa.
 
 El bloque de creación fundamental del modelo CMMI es un área de proceso que define los objetivos y varias de las actividades que se suelen realizar para lograr dichos objetivos. Un ejemplo de un área de proceso es el control de calidad de los procesos y productos. Es importante entender que un **área de proceso no es un proceso**. Un solo proceso puede atravesar varias áreas de proceso y una sola área de proceso puede abarcar varios procesos.
+
+## Ciclos de vida de CMII
+
+[](https://www.webcreek.com/wp-content/uploads/2018/08/Aug8_Lifecycle_BlogWebsite1.jpg)
+
+Contempla las fases necesarias para validar el desarrollo del software y así garantizar que este cumpla los requisitos para la aplicación y verificación de los procedimientos de desarrollo, asegurándose de que los métodos usados son apropiados.
+
+### Comunicación
+En esta etapa, se solicita el software a querer. Se ven las necesidades del cliente.
+
+### Planificación
+Se realiza un estudio de viabilidad, el análisis de los riesgos asociados, la estimación del coste del proyecto, su planificación temporal y la asignación de recursos a las diferentes etapas del proyecto
+
+### Análisis
+Se llega a una comprensión adecuada de los requerimientos del sistema (las características que el sistema debe poseer). Se da la consultoría de especialistas.
+
+### Diseño
+El diseño es una etapa compleja y su proceso debe realizarse de manera iterativa.
+* Se cuida el proceso de la implementación
+* Guías para buenos procesos. Nadie externo lo diseña.
+
+### Implementación
+Esta elección dependerá tanto de las decisiones de diseño tomadas como del entorno en el que el software deba funcionar.
+* CMMI®-DEV: Es el más popular. Se usa para la mejora de procesos de las organizaciones que desarrollan productos y servicios de software y hardware.
+* CMMI®-SVC: Proporciona las directrices a las organizaciones que establecen, administran  y entregan servicios con la finalidad de satisfacer las necesidades de los clientes y usuarios finales.
+* CMMI®-ACQ : Directrices para las organizaciones que se dedican principalmente a adquirir productos y servicios de otras empresas, para posteriormente integrarlos en un producto final que cumpla con las necesidades del cliente.
+
+### Pruebas
+Las pruebas ya son un proceso perfectamente definido y medible. Aquí entran áreas como: medición de prueba, evaluación de la calidad del software y revisiones de pares avanzada. Una prueba es un éxito si se detecta algún error.
+
+### Instalación
+Poner el software en funcionamiento, por lo que hay que planificar el entorno teniendo en cuenta las dependencias existentes entre los diferentes componentes del mismo. Depende también de la implementación requerida por el cliente.
+
+### Uso y mantenimiento
+Esta es una de las fases más importantes del ciclo de vida de desarrollo del software. Puesto que el software ni se rompe ni se desgasta con el uso, su mantenimiento incluye tres puntos diferenciados:
+* Eliminar los defectos detectados durante su vida útil (mantenimiento correctivo).
+* Adaptarlo a nuevas necesidades (mantenimiento adaptativo). 
+* Añadirle nuevas funcionalidades (mantenimiento perfectivo).
+Puede llevar tiempo llegar a esta fase.
+
+
+
